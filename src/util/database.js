@@ -9,3 +9,6 @@ const sequelize = new Sequelize("sampledb", "root", "", {
 })
 
 module.exports = sequelize;
+
+
+test
